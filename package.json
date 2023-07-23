@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "sass": "sass scss:css -w"
+  },
+  "dependencies": {
+    "sass": "^1.64.0"
+  }
+}
