@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "sass": "sass scss:css -w"
+    "sass": "sass scss:css -w --style compressed"
   },
   "dependencies": {
     "sass": "^1.64.0"

@@ -1,7 +1,3 @@
-// --------------------------------------------------
-// Cover
-// --------------------------------------------------
-
 #cover {
   height: 100vh;
   background: url(../images/cover.jpeg) no-repeat center;
@@ -31,4 +27,13 @@
 .nav-masthead .active {
   color: #fff;
   border-bottom-color: #fff;
+}
+
+* {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
 }
